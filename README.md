@@ -32,7 +32,7 @@ El sistema permite:
 ## Arquitectura MVC
 
 **Modelo:** contiene las clases de datos y estructuras utilizadas.  
-**Vista:** contiene las interfaces gráficas desarrolladas con Java Swing.  
+**Vista:** contiene las interfaces gráficas   
 **Controlador:** conecta la vista con el modelo y gestiona las acciones del usuario.
 
 ## Estructuras de datos utilizadas
