@@ -4,10 +4,10 @@
 grupo # 3
 
 ## Integrantes
-GUEVARA MORA ISAAC EDUARDO
-ORTEGA BARRANTES MARIA DAYANNARA
-PALMA ZAVALA DANIEL
-GONZALEZ MARTINEZ FELIPE
+GUEVARA MORA ISAAC EDUARDO, 
+, ORTEGA BARRANTES MARIA DAYANNARA
+, PALMA ZAVALA DANIEL
+, GONZALEZ MARTINEZ FELIPE
 
 ## Descripción del proyecto
 Este proyecto consiste en desarrollar un sistema para gestionar eventos deportivos. 
